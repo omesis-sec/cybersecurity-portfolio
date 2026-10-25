@@ -18,10 +18,18 @@ Build a strong foundation in networking, Linux, Windows, and technical communica
 - `journal/` → weekly study records
 
 ## Current Contents
-- How DNS works
-- Linux file permissions basics
-- Windows Event Viewer basics
-- What happens when I access a site
+- [How DNS works](notes/how-dns-works.md)
+- [Linux file permissions basics](notes/linux-file-permissions-basics.md)
+- [Windows Event Viewer basics](notes/windows-event-viewer-basics.md)
+- [What happens when I access a site](maps/what-happens-when-i-access-a-site.md)
+
+## Open-source work
+
+### SpartanPort — Intel UHD testing
+
+I tested a crash fix on my laptop, shared logs and results, and helped other players apply it. Tara1903 acknowledged the testing in the project's issue.
+
+[Read the test summary](docs/spartanport-validation.md).
 
 ## Goal
 Develop a solid entry-level foundation for future cybersecurity roles.
